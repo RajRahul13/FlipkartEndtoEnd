@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-14T14:54:29 IST" name="Default suite" finished-at="2023-07-14T14:55:20 IST" duration-ms="50594">
+    <groups>
+    </groups>
+    <test started-at="2023-07-14T14:54:29 IST" name="Default test" finished-at="2023-07-14T14:55:20 IST" duration-ms="50594">
+      <class name="com.flipkart.login.Flipkart">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:com.flipkart.login.Flipkart@7161d8d1]" started-at="2023-07-14T14:54:29 IST" name="launchbrowser" finished-at="2023-07-14T14:54:40 IST" duration-ms="11182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="Flipkartflow()[pri:0, instance:com.flipkart.login.Flipkart@7161d8d1]" started-at="2023-07-14T14:54:40 IST" name="Flipkartflow" finished-at="2023-07-14T14:55:18 IST" duration-ms="38151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flipkartflow -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.flipkart.login.Flipkart@7161d8d1]" started-at="2023-07-14T14:55:18 IST" name="closeBrowser" finished-at="2023-07-14T14:55:20 IST" duration-ms="1141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.flipkart.login.Flipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
